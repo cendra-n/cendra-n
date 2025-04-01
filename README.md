@@ -1,7 +1,6 @@
 ![](https://github.com/cendra-n/cendra-n/blob/main/Banner%20para%20Linkedin%20Analista%20Sistemas%20Moderno%20Negro.png?raw=true)
 
 # 💫 Sobre Mí:
-Sobre mí:
 Hola, soy Nadia Cendra y soy Técnica Análista de Sistemas. Me gradué recientemente y busco mi primer trabajo en el mundo de las TI. Soy organizada, metódica, responsable y sé trabajar en equipo. Iré subiendo aquí todos los proyectos que desarrolle mientras continúo capacitándome y aplicando lo aprendido.
 
 About Me:
