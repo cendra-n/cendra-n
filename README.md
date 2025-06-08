@@ -1,10 +1,12 @@
 ![](https://github.com/cendra-n/cendra-n/blob/main/Banner%20para%20Linkedin%20Analista%20Sistemas%20Moderno%20Negro.png?raw=true)
 
 # 💫 Sobre Mí:
-Hola, soy Nadia Cendra y soy Técnica Análista de Sistemas. Me gradué recientemente y busco mi primer trabajo en el mundo de las TI. Soy organizada, metódica, responsable y sé trabajar en equipo. Iré subiendo aquí todos los proyectos que desarrolle mientras continúo capacitándome y aplicando lo aprendido.
+Hola, soy Nadia Cendra, Técnica Analista de Sistemas con orientación al desarrollo backend. Me gradué recientemente y actualmente me estoy capacitando en Testing QA y automatización, además de seguir perfeccionando mis habilidades en Java y Spring Boot mediante cursos autodidactas.
+En este repositorio comparto proyectos donde aplico tecnologías como Java, Spring Boot, SQL, Swagger y más, con el objetivo de seguir aprendiendo y mostrar mi progreso de forma transparente.
 
-About Me:
-Hi, I'm Nadia Cendra and I'm a Technical Systems Analyst. I'm recently graduated and looking for my first job in the IT world.<br>I am organized, methodical, responsible and I know how to work in a group.<br>I will be uploading here all the projects that I learn to do in order to interact with various languages and technologies.
+About Me
+I'm Nadia Cendra, a recently graduated Technical Systems Analyst focused on backend development. I'm currently training in QA Testing and automation, and I keep improving my skills in Java and Spring Boot through self-learning platforms.
+Here I upload my projects to share my learning path and practical experience with various technologies and frameworks.
 
 
 ## 🌐 Socials:
