@@ -32,4 +32,6 @@ Podés ver todos mis certificados en la siguiente carpeta de Google Drive:
 ---
 [![](https://visitcount.itsvg.in/api?id=cendra-n&icon=0&color=0)](https://visitcount.itsvg.in)
 
+_Gracias por visitar mi perfil. ¡Estoy abierta a oportunidades laborales donde pueda seguir aprendiendo y aportar valor como Backend Developer!_
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
