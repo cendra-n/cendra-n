@@ -28,7 +28,7 @@ Here I upload my projects to share my learning path and practical experience wit
 Podés ver todos mis certificados en la siguiente carpeta de Google Drive:  
 👉 [Carpeta de Certificaciones](https://drive.google.com/drive/folders/19YV_K0FQt9IwQqECtCMI8cry0BMAk34A?usp=sharing)
 
-📁 [CV en Google Drive](https://drive.google.com/file/d/1sMIRTpoBCIFRmlIRdog0U0XSlOlqrxAw/view?usp=sharing)
+📁 [CV en Google Drive](https://drive.google.com/drive/u/1/folders/10xi-i6DYojAOD07jh5o0gI5bsV5j6FjR)
 ---
 [![](https://visitcount.itsvg.in/api?id=cendra-n&icon=0&color=0)](https://visitcount.itsvg.in)
 
