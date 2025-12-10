@@ -1,12 +1,14 @@
 ![](https://github.com/cendra-n/cendra-n/blob/main/Banner%20para%20Linkedin%20Analista%20Sistemas%20Moderno%20Negro.png?raw=true)
 
 # 💫 Sobre Mí:
-Hola, soy Nadia Cendra, Técnica Analista de Sistemas con orientación al desarrollo backend. Me gradué recientemente y actualmente me estoy capacitando en Testing QA, además de seguir perfeccionando mis habilidades en Java y Spring Boot mediante cursos autodidactas.
-En este repositorio comparto proyectos donde aplico tecnologías como Java, Spring Boot, SQL, Swagger y más, con el objetivo de seguir aprendiendo y mostrar mi progreso de forma transparente.
+# 👋 ¡Hola!  
+## Soy Nadia Cendra 
+Backend Developer Junior especializada en Java y Spring Boot. Experiencia real creando APIs REST, conectando con bases de datos SQL y documentando servicios con Swagger. Manejo herramientas como Git, Postman y Jira, y trabajo bajo metodologías ágiles. Actualmente desarrollo una app Fullstack de inventarios (Spring Boot + Angular) aplicando arquitectura limpia, validaciones y buenas prácticas; el repositorio será visible una vez completado el frontend. Lista para aportar en proyectos backend, aprender rápido y crecer dentro de un equipo IT.
 
 About Me
-I'm Nadia Cendra, a recently graduated Technical Systems Analyst focused on backend development. I'm currently training in QA Testing, and I keep improving my skills in Java and Spring Boot through self-learning platforms.
-Here I upload my projects to share my learning path and practical experience with various technologies and frameworks.
+# 👋 ¡Hola!  
+## Soy Nadia Cendra
+Junior Backend Developer specialized in Java and Spring Boot. Hands-on experience building REST APIs, working with SQL databases, and documenting services using Swagger. Skilled in Git, Postman, Jira and agile methodologies. I am currently developing a Fullstack inventory application (Spring Boot + Angular), implementing clean architecture, validations and best practices; the repository will be published once the frontend is completed. Ready to contribute to backend projects, learn quickly, and grow within a collaborative IT team.
 
 
 ## 🌐 Socials:
