@@ -5,9 +5,9 @@
 ## Soy Nadia Cendra 
 Backend Developer Junior especializada en Java y Spring Boot. Experiencia real creando APIs REST, conectando con bases de datos SQL y documentando servicios con Swagger. Manejo herramientas como Git, Postman y Jira, y trabajo bajo metodologías ágiles. Actualmente desarrollo una app Fullstack de inventarios (Spring Boot + Angular) aplicando arquitectura limpia, validaciones y buenas prácticas; el repositorio será visible una vez completado el frontend. Lista para aportar en proyectos backend, aprender rápido y crecer dentro de un equipo IT.
 
-About Me
-# 👋 ¡Hola!  
-## Soy Nadia Cendra
+
+# 👋 Hello!  
+## I'm Nadia Cendra
 Junior Backend Developer specialized in Java and Spring Boot. Hands-on experience building REST APIs, working with SQL databases, and documenting services using Swagger. Skilled in Git, Postman, Jira and agile methodologies. I am currently developing a Fullstack inventory application (Spring Boot + Angular), implementing clean architecture, validations and best practices; the repository will be published once the frontend is completed. Ready to contribute to backend projects, learn quickly, and grow within a collaborative IT team.
 
 
