@@ -25,7 +25,7 @@ Junior Backend Developer specialized in Java and Spring Boot. Hands-on experienc
 ![](https://github-profile-trophy.vercel.app/?username=cendra-n&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-📁 [CV en Google Drive](https://drive.google.com/file/d/1in4ysLjUOcsJGs-Lg6ck4OInYVi9s3-W/view?usp=sharing)
+📁 [CV en Google Drive](https://drive.google.com/file/d/1ZFZ76R4Or_8usPvPCg3SGl86XjrdGiPg/view?usp=drive_link)
 ---
 [![](https://visitcount.itsvg.in/api?id=cendra-n&icon=0&color=0)](https://visitcount.itsvg.in)
 
