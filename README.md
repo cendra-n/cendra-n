@@ -28,6 +28,6 @@ Junior Backend Developer specialized in Java and Spring Boot. Hands-on experienc
 
 [![](https://visitcount.itsvg.in/api?id=cendra-n&icon=0&color=0)](https://visitcount.itsvg.in)
 
-_Gracias por visitar mi perfil. ¡Estoy abierta a oportunidades laborales donde pueda seguir aprendiendo y aportar valor como Backend Developer!_
+_Gracias por visitar mi perfil. 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
